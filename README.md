@@ -1,4 +1,4 @@
-Clicky Game
+# Clicky Game
 
 https://andrewsrea.github.io/clicky-game/
 
